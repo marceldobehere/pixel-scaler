@@ -1,6 +1,6 @@
-# Clone of the pixel scaler trying to add gif support lol
+# Clone of the Pixel Scale
 
-するやつ。
+I'm trying to add GIF support bc why not.
 
 ## URL
 
